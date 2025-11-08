@@ -1,6 +1,6 @@
 # C++ Lexer
 
-High-performance lexical analyzer for C++ source code.
+Lexical analyzer for C++ source code.
 
 ## Tokeniser Performance
 
