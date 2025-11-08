@@ -15,7 +15,7 @@ Linear scalability with consistent ~3,500 tokens/second throughput.
 
 ## Features
 
-- Complete C++ token support (keywords, operators, literals)
+- C++ token support in keywords, operators and literals
 - Source location tracking (line/column numbers)
 - O(1) keyword lookup via bidirectional hashmap
 - String escape sequences
