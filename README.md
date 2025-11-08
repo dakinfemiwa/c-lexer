@@ -2,7 +2,7 @@
 
 High-performance lexical analyzer for C++ source code.
 
-## Performance Benchmarks
+## Performance of Toekniser
 
 | Test                       | Tokens  | Time (ms) | Tokens/sec |
 | -------------------------- | ------- | --------- | ---------- |
