@@ -2,7 +2,7 @@
 
 High-performance lexical analyzer for C++ source code.
 
-## Performance of Toekniser
+## Tokeniser Performance
 
 | Test                       | Tokens  | Time (ms) | Tokens/sec |
 | -------------------------- | ------- | --------- | ---------- |
@@ -19,7 +19,7 @@ Linear scalability with consistent ~3,500 tokens/second throughput.
 - Source location tracking (line/column numbers)
 - O(1) keyword lookup via bidirectional hashmap
 - String escape sequences
-- Single-line and multi-line comment handling
+- Single-line comment handling
 - Validated 100% accuracy on test suite
 
 ## Implementation
