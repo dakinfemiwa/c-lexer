@@ -1,0 +1,3 @@
+int var1 = 2 ;
+string var2 = "32"
+bool isTrue = 3 == 4

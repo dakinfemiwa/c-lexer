@@ -1,0 +1,20 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+a.out
+test_accuracy
+test_throughput
+
+# Test-generated files
+test_*.ap
+temp_test.ap
+
+# IDE files
+.vscode/
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
